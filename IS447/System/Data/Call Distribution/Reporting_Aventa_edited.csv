@@ -83,6 +83,88 @@ Singtel,CORP,10138,PSCS
 Singtel Annual HS,CORP,10067,PSCS
 Unilever,EHS (PSCS),10140,PSCS
 UOB medical concierge - Night,CPAC,10141,PSCS
+GEH Internal - Night,HOSP,,PSCS
+MNH Internal - Night,HOSP,,PSCS
+PEH Internal - Night,HOSP,,PSCS
+PSCS-Outbound,Outbound,,PSCS
+SDH DigiHealth - Day,HOSP,,PSCS
+SDH DigiCare - Doc - Day,HOSP,,PSCS
+10150,HOSP,,PSCS
+Mt Elizabeth Novena Hsop - Day,HOSP,,PSCS
+Hotel House call Services - Night,HOSP,,PSCS
+Hsop,HOSP,,PSCS
+MEH ANE Hotline press 0 - Day,HOSP,,PSCS
+PEH ANE Hotline Press 0 - Day,HOSP,,PSCS
+MEH Internal - Day,HOSP,,PSCS
+Parkway East Hsop - Day,HOSP,,PSCS
+MNH ANE Hotline press 0 - Day,HOSP,,PSCS
+GEH ANE Hotline(Press 0) - Day,HOSP,,PSCS
+PSCS Mainline,HOSP,,PSCS
+COVID19 Vaccine,HOSP,,PSCS
+Parkway Ambulance,HOSP,10160,PSCS
+EHS Walkin - Press 0,EHS Walkin,,PSCS
+EHS Corporate - Press 1,EHS Corp,,PSCS
+SMG Appointment,CORP,,PSCS
+PSCM-Outbound,Outbound,,PSCS
+Meh swab test,HOSP,,PSCS
+10166,HOSP,,PSCS
+Parkway Emergency Internal,HOSP,,PSCS
+Pre-Departure Test,CORP,,PSCS
+Parkway Insurance Concierge,PIC,,PSCS
+Parkway Medical Concierge,PMC,,PSCS
+PEPAC - press 2 - Day,CPAC,,PSCS
+CPAC - 2 - Day,CPAC,,PSCS
+MNPAC-press 2 - Day,CPAC,,PSCS
+CPAC - 0 - Day,Hsop,10001,PSCS
+Gleneagles Hsop - Day,Hsop,10039,PSCS
+Shenton - 62277777-1,CORP,,PSCS
+Shenton - 62277777-0,CORP,,PSCS
+ixchange TPA,IXCH,,PSCS
+MPAC - press 2 - Day,Hsop,,PSCS
+GPAC - Press 0 - Day,Hsop,,PSCS
+Mt Elizabeth Hsop - Day,Hsop,,PSCS
+GPAC - Press 2 - Day,CPAC,,PSCS
+Sinopharm Hotline,,,PSCS
+Medisave,CPAC,,PSCS
+AVIVANBU,CORP,,PSCS
+ixchange Mainline,TPA,,PSCS
+Manulife,CORP,,PSCS
+FWD,CORP,,PSCS
+MNPAC - Press 0 - Day,Hsop,,PSCS
+MPAC - Press 0 - Day,Hsop,,PSCS
+PEPAC - Press 0 - Day,Hsop,,PSCS
+GE Singpost,CORP,,PSCS
+GE Singpost-Claim and Policy,CORP,,PSCS
+AVIVAEBH,CORP,,PSCS
+MHA - HS (Press 4),CORP,,PSCS
+MHA HTD (Press 3),CORP,,PSCS
+Screen For Life - Day,TPA,,PSCS
+Great Eastern,CORP,,PSCS
+Affordability - Day,Hsop,,PSCS
+Price Guarantee Program,CPAC,,PSCS
+M1,CORP,,PSCS
+UOB Medical Concierge - Day,CPAC,,PSCS
+MHA - CRA (Press 2),CORP,,PSCS
+ISOS - Day,Hsop,,PSCS
+GE Singpost - LOG,CORP,,PSCS
+MHA - SCORE (Press 1),CORP,,PSCS
+CTS-Europe Assistance Holding,CPAC,,PSCS
+Kyndryl Singapore (IBM),CORP,,PSCS
+PCN - Day,TPA,,PSCS
+GEH Gastro,CPAC,,PSCS
+80001,Test Queue,,PSCS
+MNH GP Referral,CPAC,,PSCS
+88889,Test Queue,,PSCS
+Mt Elizabeth Hospital - Night,Night,,PSCS
+Parkway East Hospital - Night,Night,,PSCS
+Gleneagles Hospital - Night,Night,,PSCS
+Mt Elizabeth Novena Hospital - Nigh,Night,,PSCS
+Call Centre Hospital,HOSP,,PSCS
+Mt Elizabeth Hospital - Day,HOSP,,PSCS
+Mt Elizabeth Novena Hospital - Day,HOSP,,PSCS
+Gleneagles Hospital - Day,HOSP,,PSCS
+Parkway East Hospital - Day,HOSP,,PSCS
+Hospital Call Centre,HOSP,,PSCS
 Shenton - 62277777-0,AC,10054,PSCM
 Shenton - 62277777-1,AC,10055,PSCM
 AVIVAEBH,CORP,10057,PSCM
@@ -101,6 +183,7 @@ MHA - SCORE (Press 1),CORP,10133,PSCM
 MHA HTD (Press 3),CORP,10095,PSCM
 PUB,CORP,10126,PSCM
 SMG Appointment,CORP,10139,PSCM
+Great Eastern,CORP,,PSCM
 Asian Assistance Thailand,CPAC,10008,PSCM
 B2B,CPAC,10010,PSCM
 CPAC - 2 - Day,CPAC,10002,PSCM
@@ -153,9 +236,22 @@ PEH Internal,Hsop,10127,PSCM
 PEPAC - Press 0 - Day,Hsop,10105,PSCM
 SDH DigiCare - Doc - Day,Hsop,10109,PSCM
 SDH DigiHealth - Day,Hsop,10111,PSCM
+Hotel House call Services-Day,Hsop,,PSCM
 ixchange Mainline,TPA,10064,PSCM
 ixchange TPA,TPA,10068,PSCM
 PCN - Day,TPA,10098,PSCM
 Screen For Life - Day,TPA,10107,PSCM
 Shenton-Feedback,TPA,10060,PSCM
 PSCM Inbound,IB,10143,PSCM
+MTI – PCR Swab Test,CORP,,PSCM
+Pre-Departure Test,CORP,,PSCM
+GEH Internal - Day,Hsop,,PSCM
+PEH Internal - Day,Hsop,,PSCM
+MPAC - press 2 - Day,Hsop,,PSCM
+Parkway Medical Concierge,Hsop,,PSCM
+Parkway Insurance Concierge,Hsop,,PSCM
+MNH Internal - Day,Hsop,,PSCM
+Hotel House Call Services - Day,Hsop,,PSCM
+Sinopharm Hotline,,,PSCM
+AIA Indonesia,CPAC,,PSCM
+GE Singpost,,,PSCM
