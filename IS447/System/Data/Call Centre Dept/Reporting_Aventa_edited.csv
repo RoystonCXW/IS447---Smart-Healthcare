@@ -1,0 +1,257 @@
+﻿Description,Team,Queue,Country
+AIA Intergrated Healthcare,CORP,10005,PSCS
+AIA NBU,CORP,10007,PSCS
+AIA PA,CORP,10056,PSCS
+AIA Platinum,CORP,10006,PSCS
+AVA,CORP,10009,PSCS
+Affordability - Night,HOSP,10044,PSCS
+Affordability - SG,HOSP,10119,PSCS
+CIGNA,EHS (PSCS),10142,PSCS
+CPAC - 0 - Night,HOSP,10003,PSCS
+CPAC - 2 - Night,Night,10004,PSCS
+CPF,CORP,10059,PSCS
+Call Centre Hsop,HOSP,10012,PSCS
+Citibank,CORP,10014,PSCS
+Customer Resolution,Support Team,10022,PSCS
+Emergency Failover,HOSP,99999,PSCS
+GEH ANE Hotline(Press 0) - Night,HOSP,10035,PSCS
+GEH ANE Option 1,HOSP,10015,PSCS
+GEH ANE Option 2,External,10030,PSCS
+GEH CODE BLUE,HOSP,99984,PSCS
+GEH CODE GREEN,HOSP,99985,PSCS
+GEH CODE PINK,HOSP,99986,PSCS
+GEH Internal - Day,HOSP,10144,PSCS
+GEH-4BD-Campaign,HOSP,10116,PSCS
+GPAC - Press 0 - Night,HOSP,10041,PSCS
+GPAC - Press 2 - Night,HOSP,10040,PSCS
+Gleneagles Hsop - Night,HOSP,10037,PSCS
+Hsop Call Centre,HOSP,10118,PSCS
+IBM,CORP,10047,PSCS
+ISOS - Night,Night,10048,PSCS
+LTA,CORP,10069,PSCS
+MAS,CORP,10066,PSCS
+MEH ANE Hotline press 0 - Night,HOSP,10072,PSCS
+MEH CODE BLUE,HOSP,99990,PSCS
+MEH CODE GREEN,HOSP,99991,PSCS
+MEH CODE PINK,HOSP,99992,PSCS
+MEH Internal - Night,HOSP,10050,PSCS
+MEH-4BD-Campaign,HOSP,10120,PSCS
+MEH/MNH be heart strong(Digital) Night,HOSP,,PSCS
+MEH ANE Option 1,HOSP,10016,PSCS
+MEH ANE Option 2,External,10033,PSCS
+MNH ANE Hotline press 0 - Night,HOSP,10074,PSCS
+MNH CODE BLUE,HOSP,99987,PSCS
+MNH CODE GREEN,HOSP,99988,PSCS
+MNH CODE PINK,HOSP,99989,PSCS
+MNH Internal - Day,HOSP,10145,PSCS
+MNPAC - Press 0 - Night,HOSP,10079,PSCS
+MNPAC-press 2 - Night,HOSP,10076,PSCS
+MPAC - Press 0 - Night,HOSP,10088,PSCS
+MPAC-press 2 - Night,HOSP,10084,PSCS
+MNH ANE Option 1,HOSP,10028,PSCS
+MNH ANE Option 2,External,10034,PSCS
+MSIG TPA,CORP,10114,PSCS
+Mt Elizabeth Hsop - Night,HOSP,10090,PSCS
+Mt Elizabeth Novena Hsop - Nigh,HOSP,10092,PSCS
+MyHealthConnect,CORP,10117,PSCS
+Parkway East Hsop - Night,HOSP,10094,PSCS
+PCN - Night,CORP,10097,PSCS
+PEH ANE Hotline Press 0 - Night,HOSP,10099,PSCS
+PEH ANE Option 1,HOSP,10029,PSCS
+PEH ANE Option 2,External,10112,PSCS
+PEH CODE BLUE,HOSP,99981,PSCS
+PEH CODE GREEN,HOSP,99983,PSCS
+PEH CODE PINK,HOSP,99982,PSCS
+PEH Internal - Day,HOSP,10146,PSCS
+PEH-4BD-Campaign,HOSP,10128,PSCS
+PEPAC - Press 0 - Night,HOSP,10104,PSCS
+PEPAC - press 2 - Night,HOSP,10101,PSCS
+Prudential Health Screening,CORP,10125,PSCS
+Prudential ME,CORP,10124,PSCS
+RWS House-Call,CORP,10129,PSCS
+SCB  All other Enquiries (0),CORP,10130,PSCS
+SCB  Appointment Booking (1),CORP,10131,PSCS
+SCB  Claims Benefits (2),CORP,10132,PSCS
+SCB  LOG (3),CORP,10134,PSCS
+SCB medical concierge,CORP,10135,PSCS
+SCB Staff,CORP,10136,PSCS
+Screen For Life - Night,CORP,10106,PSCS
+SDH DigiCare - Doc - Night,HOSP,10108,PSCS
+SDH DigiHealth - Night,HOSP,10110,PSCS
+Service Excellence,Service Excellence,10137,PSCS
+Singtel,CORP,10138,PSCS
+Singtel Annual HS,CORP,10067,PSCS
+Unilever,EHS (PSCS),10140,PSCS
+UOB medical concierge - Night,CPAC,10141,PSCS
+GEH Internal - Night,HOSP,,PSCS
+MNH Internal - Night,HOSP,,PSCS
+PEH Internal - Night,HOSP,,PSCS
+PSCS-Outbound,Outbound,,PSCS
+SDH DigiHealth - Day,HOSP,,PSCS
+SDH DigiCare - Doc - Day,HOSP,,PSCS
+10150,HOSP,,PSCS
+Mt Elizabeth Novena Hsop - Day,HOSP,,PSCS
+Hotel House call Services - Night,HOSP,,PSCS
+Hsop,HOSP,,PSCS
+MEH ANE Hotline press 0 - Day,HOSP,,PSCS
+PEH ANE Hotline Press 0 - Day,HOSP,,PSCS
+MEH Internal - Day,HOSP,,PSCS
+Parkway East Hsop - Day,HOSP,,PSCS
+MNH ANE Hotline press 0 - Day,HOSP,,PSCS
+GEH ANE Hotline(Press 0) - Day,HOSP,,PSCS
+PSCS Mainline,HOSP,,PSCS
+COVID19 Vaccine,HOSP,,PSCS
+Parkway Ambulance,HOSP,10160,PSCS
+EHS Walkin - Press 0,EHS Walkin,,PSCS
+EHS Corporate - Press 1,EHS Corp,,PSCS
+SMG Appointment,CORP,,PSCS
+PSCM-Outbound,Outbound,,PSCS
+Meh swab test,HOSP,,PSCS
+10166,HOSP,,PSCS
+Parkway Emergency Internal,HOSP,,PSCS
+Pre-Departure Test,CORP,,PSCS
+Parkway Insurance Concierge,PIC,,PSCS
+Parkway Medical Concierge,PMC,,PSCS
+PEPAC - press 2 - Day,CPAC,,PSCS
+CPAC - 2 - Day,CPAC,,PSCS
+MNPAC-press 2 - Day,CPAC,,PSCS
+CPAC - 0 - Day,Hsop,10001,PSCS
+Gleneagles Hsop - Day,Hsop,10039,PSCS
+Shenton - 62277777-1,CORP,,PSCS
+Shenton - 62277777-0,CORP,,PSCS
+ixchange TPA,IXCH,,PSCS
+MPAC - press 2 - Day,Hsop,,PSCS
+GPAC - Press 0 - Day,Hsop,,PSCS
+Mt Elizabeth Hsop - Day,Hsop,,PSCS
+GPAC - Press 2 - Day,CPAC,,PSCS
+Sinopharm Hotline,,,PSCS
+Medisave,CPAC,,PSCS
+AVIVANBU,CORP,,PSCS
+ixchange Mainline,TPA,,PSCS
+Manulife,CORP,,PSCS
+FWD,CORP,,PSCS
+MNPAC - Press 0 - Day,Hsop,,PSCS
+MPAC - Press 0 - Day,Hsop,,PSCS
+PEPAC - Press 0 - Day,Hsop,,PSCS
+GE Singpost,CORP,,PSCS
+GE Singpost-Claim and Policy,CORP,,PSCS
+AVIVAEBH,CORP,,PSCS
+MHA - HS (Press 4),CORP,,PSCS
+MHA HTD (Press 3),CORP,,PSCS
+Screen For Life - Day,TPA,,PSCS
+Great Eastern,CORP,,PSCS
+Affordability - Day,Hsop,,PSCS
+Price Guarantee Program,CPAC,,PSCS
+M1,CORP,,PSCS
+UOB Medical Concierge - Day,CPAC,,PSCS
+MHA - CRA (Press 2),CORP,,PSCS
+ISOS - Day,Hsop,,PSCS
+GE Singpost - LOG,CORP,,PSCS
+MHA - SCORE (Press 1),CORP,,PSCS
+CTS-Europe Assistance Holding,CPAC,,PSCS
+Kyndryl Singapore (IBM),CORP,,PSCS
+PCN - Day,TPA,,PSCS
+GEH Gastro,CPAC,,PSCS
+80001,Test Queue,,PSCS
+MNH GP Referral,CPAC,,PSCS
+88889,Test Queue,,PSCS
+Mt Elizabeth Hospital - Night,Night,,PSCS
+Parkway East Hospital - Night,Night,,PSCS
+Gleneagles Hospital - Night,Night,,PSCS
+Mt Elizabeth Novena Hospital - Nigh,Night,,PSCS
+Call Centre Hospital,HOSP,,PSCS
+Mt Elizabeth Hospital - Day,HOSP,,PSCS
+Mt Elizabeth Novena Hospital - Day,HOSP,,PSCS
+Gleneagles Hospital - Day,HOSP,,PSCS
+Parkway East Hospital - Day,HOSP,,PSCS
+Hospital Call Centre,HOSP,,PSCS
+Shenton - 62277777-0,AC,10054,PSCM
+Shenton - 62277777-1,AC,10055,PSCM
+AVIVAEBH,CORP,10057,PSCM
+AVIVANBU,CORP,10058,PSCM
+BCA,CORP,10011,PSCM
+CAS Helpline,CORP,10013,PSCM
+DSO Labs,CORP,10023,PSCM
+DSTA,CORP,10024,PSCM
+FWD,CORP,10061,PSCM
+GE15,CORP,10062,PSCM
+M1,CORP,10063,PSCM
+Manulife,CORP,10065,PSCM
+MHA - CRA (Press 2),CORP,10017,PSCM
+MHA - HS (Press 4),CORP,10046,PSCM
+MHA - SCORE (Press 1),CORP,10133,PSCM
+MHA HTD (Press 3),CORP,10095,PSCM
+PUB,CORP,10126,PSCM
+SMG Appointment,CORP,10139,PSCM
+Great Eastern,CORP,,PSCM
+Asian Assistance Thailand,CPAC,10008,PSCM
+B2B,CPAC,10010,PSCM
+CPAC - 2 - Day,CPAC,10002,PSCM
+CTS,CPAC,10018,PSCM
+CTS Henner,CPAC,10019,PSCM
+CTS-Europe Assistance Holding,CPAC,10020,PSCM
+CTS-Now Health International,CPAC,10021,PSCM
+Euro Center Thailand,CPAC,10027,PSCM
+GEH Gastro,CPAC,10031,PSCM
+GEH GP Referral,CPAC,10032,PSCM
+GP Hotline,CPAC,10038,PSCM
+GPAC - Press 2 - Day,CPAC,10042,PSCM
+Medisave,CPAC,10070,PSCM
+MEH GP Referral,CPAC,10077,PSCM
+MEH Ortho (Digital),CPAC,10080,PSCM
+MEH Ortho (Event),CPAC,10081,PSCM
+MEH Ortho (Facebook),CPAC,10082,PSCM
+MEH/MNH be heart strong(Digital) -,CPAC,10071,PSCM
+MEH/MNH be heart strong(Event),CPAC,10085,PSCM
+MEH/MNH be heart strong(Print),CPAC,10086,PSCM
+MNH GP Referral,CPAC,10102,PSCM
+MNPAC-press 2 - Day,CPAC,10078,PSCM
+MPAC-press 2 - Day,CPAC,10087,PSCM
+MSH,CPAC,10113,PSCM
+Onco5/20,CPAC,10051,PSCM
+PEH Who Would Have Thought,CPAC,10121,PSCM
+PEPAC - press 2 - Day,CPAC,10103,PSCM
+Price Guarantee Program,CPAC,10123,PSCM
+UOB Medical Concierge - Day,CPAC,10147,PSCM
+MEH/MNH be heart strong(Digital) Ni,CPAC,10053,PSCM
+EHS Corporate - Press 1,EHS,10025,PSCM
+EHS Walkin - Press 0,EHS,10026,PSCM
+Affordability - Day,Hsop,10045,PSCM
+CPAC - 0 - Day,Hsop,10001,PSCM
+GEH ANE Hotline(Press 0) - Day,Hsop,10036,PSCM
+GEH Internal,Hsop,10115,PSCM
+Gleneagles Hsop - Day,Hsop,10039,PSCM
+GPAC - Press 0 - Day,Hsop,10043,PSCM
+MEH ANE Hotline press 0 - Day,Hsop,10073,PSCM
+MEH Internal - Day,Hsop,10052,PSCM
+MNH ANE Hotline press 0 - Day,Hsop,10075,PSCM
+MNH Internal,Hsop,10122,PSCM
+MNPAC - Press 0 - Day,Hsop,10083,PSCM
+MPAC - Press 0 - Day,Hsop,10089,PSCM
+Mt Elizabeth Hsop - Day,Hsop,10091,PSCM
+Mt Elizabeth Novena Hsop - Day,Hsop,10093,PSCM
+Parkway East Hsop - Day,Hsop,10096,PSCM
+PEH ANE Hotline Press 0 - Day,Hsop,10100,PSCM
+PEH Internal,Hsop,10127,PSCM
+PEPAC - Press 0 - Day,Hsop,10105,PSCM
+SDH DigiCare - Doc - Day,Hsop,10109,PSCM
+SDH DigiHealth - Day,Hsop,10111,PSCM
+Hotel House call Services-Day,Hsop,,PSCM
+ixchange Mainline,TPA,10064,PSCM
+ixchange TPA,TPA,10068,PSCM
+PCN - Day,TPA,10098,PSCM
+Screen For Life - Day,TPA,10107,PSCM
+Shenton-Feedback,TPA,10060,PSCM
+PSCM Inbound,IB,10143,PSCM
+MTI – PCR Swab Test,CORP,,PSCM
+Pre-Departure Test,CORP,,PSCM
+GEH Internal - Day,Hsop,,PSCM
+PEH Internal - Day,Hsop,,PSCM
+MPAC - press 2 - Day,Hsop,,PSCM
+Parkway Medical Concierge,Hsop,,PSCM
+Parkway Insurance Concierge,Hsop,,PSCM
+MNH Internal - Day,Hsop,,PSCM
+Hotel House Call Services - Day,Hsop,,PSCM
+Sinopharm Hotline,,,PSCM
+AIA Indonesia,CPAC,,PSCM
+GE Singpost,,,PSCM
