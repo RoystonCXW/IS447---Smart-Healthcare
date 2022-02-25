@@ -1,0 +1,208 @@
+﻿Description,Team
+CatchAll,IGNORE
+10150,HOSP
+10156,CORP
+10158,CORP
+10160,HOSP
+10161,HOSP
+10162,HOSP
+10163,CORP
+10166,HOSP
+80001,Test Queue
+88889,Test Queue
+Affordability - Day,HOSP
+Affordability - Night,HOSP
+Affordability - SG,HOSP
+AIA Indonesia,CPAC
+AIA Intergrated Healthcare,CORP
+AIA NBU,CORP
+AIA PA,CORP
+AIA Platinum,CORP
+AIA RSC - Day,CORP
+AIA RSC - Night,CORP
+Asian Assistance Thailand,CPAC
+AVA,CORP
+Aventa Test,Test Queue
+AVIVAEBH,CORP
+AVIVANBU,CORP
+B2B,CPAC
+BCA,CORP
+Call Centre Hospital,HOSP
+CAS Helpline,CORP
+CIGNA,EHS (PSCS)
+Citibank,CORP
+COVID19 Vaccine,HOSP
+COVID19 Vaccine (Specialist Clinic),CORP
+CPAC - 0 - Day,HOSP
+CPAC - 0 - Night,HOSP
+CPAC - 2 - Day,CPAC
+CPAC - 2 - Night,HOSP
+CPF,CORP
+CTS,CPAC
+CTS Henner,CPAC
+CTS-Europe Assistance Holding,CPAC
+CTS-Now Health International,CPAC
+Customer Resolution,Support Team
+DSO Labs,CORP
+DSTA,CORP
+EHS Corporate - Press 1,EHS Corp
+EHS Walkin - Press 0,EHS Walkin
+Emergency Failover,HOSP
+Euro Center Thailand,CPAC
+FWD,CORP
+GE Singpost,CORP
+GE Singpost - LOG,CORP
+GE Singpost-Claim and Policy,CORP
+GE15,CORP
+GEH ANE Hotline(Press 0) - Day,HOSP
+GEH ANE Hotline(Press 0) - Night,HOSP
+GEH ANE Option 1,HOSP
+GEH ANE Option 2,HOSP
+GEH CODE BLUE,HOSP
+GEH CODE GREEN,HOSP
+GEH CODE PINK,HOSP
+GEH Gastro,CPAC
+GEH GP Referral,CPAC
+GEH Internal,HOSP
+GEH Internal - Day,HOSP
+GEH Internal - Night,HOSP
+GEH-4BD-Campaign,HOSP
+GE-Outbound,Outbound
+Gleneagles Hospital - Day,HOSP
+Gleneagles Hospital - Night,HOSP
+GP Hotline,CPAC
+GPAC - Press 0 - Day,HOSP
+GPAC - Press 0 - Night,HOSP
+GPAC - Press 2 - Day,CPAC
+GPAC - Press 2 - Night,HOSP
+Great Eastern,CORP
+Hospital,HOSP
+Hospital Call Centre,HOSP
+Hotel House call Services - Night,HOSP
+Hotel House call Services-Day,HOSP
+IBM,CORP
+ISOS - Day,HOSP
+ISOS - Night,HOSP
+ixchange Mainline,IXCH
+ixchange TPA,IXCH
+Kyndryl Singapore (IBM),CORP
+LTA,CORP
+M1,CORP
+Manulife,CORP
+MAS,CORP
+Medisave,CPAC
+MEH ANE Hotline press 0 - Day,HOSP
+MEH ANE Hotline press 0 - Night,HOSP
+MEH ANE Option 1,HOSP
+MEH ANE Option 2,HOSP
+MEH CODE BLUE,HOSP
+MEH CODE GREEN,HOSP
+MEH CODE PINK,HOSP
+MEH GP Referral,CPAC
+MEH Internal - Day,HOSP
+MEH Internal - Night,HOSP
+MEH Ortho (Digital),CPAC
+MEH Ortho (Event),CPAC
+MEH Ortho (Facebook),CPAC
+MEH PCR Swab Test,HOSP
+Meh swab test,HOSP
+MEH/MNH be heart strong(Digital) -,CPAC
+MEH/MNH be heart strong(Digital) Ni,CPAC
+MEH/MNH be heart strong(Digital) Night,HOSP
+MEH/MNH be heart strong(Event),CPAC
+MEH/MNH be heart strong(Print),CPAC
+MEH-4BD-Campaign,HOSP
+MHA - CRA (Press 2),CORP
+MHA - HS (Press 4),CORP
+MHA - SCORE (Press 1),CORP
+MHA HTD (Press 3),CORP
+MNH ANE Hotline press 0 - Day,HOSP
+MNH ANE Hotline press 0 - Night,HOSP
+MNH ANE Option 1,HOSP
+MNH ANE Option 2,HOSP
+MNH CODE BLUE,HOSP
+MNH CODE GREEN,HOSP
+MNH CODE PINK,HOSP
+MNH GP Referral,CPAC
+MNH Internal,HOSP
+MNH Internal - Day,HOSP
+MNH Internal - Night,HOSP
+MNPAC - Press 0 - Day,HOSP
+MNPAC - Press 0 - Night,HOSP
+MNPAC-press 2 - Day,CPAC
+MNPAC-press 2 - Night,HOSP
+MPAC - Press 0 - Day,HOSP
+MPAC - Press 0 - Night,HOSP
+MPAC - press 2 - Day,HOSP
+MPAC-press 2 - Day,CPAC
+MPAC-press 2 - Night,HOSP
+MSH,CPAC
+MSIG TPA,CORP
+Mt Elizabeth Hospital - Day,HOSP
+Mt Elizabeth Hospital - Night,HOSP
+Mt Elizabeth Novena Hospital - Day,HOSP
+Mt Elizabeth Novena Hospital - Nigh,HOSP
+MTI – PCR Swab Test,CORP
+MyHealthConnect,CORP
+Onco5/20,CPAC
+Parkway Ambulance,HOSP
+Parkway East Hospital - Day,HOSP
+Parkway East Hospital - Night,HOSP
+Parkway Emergency Internal,HOSP
+Parkway Insurance Concierge,PIC
+Parkway Medical Concierge,PMC
+PCN - Day,TPA
+PCN - Night,CORP
+PEH ANE Hotline Press 0 - Day,HOSP
+PEH ANE Hotline Press 0 - Night,HOSP
+PEH ANE Option 1,HOSP
+PEH ANE Option 2,HOSP
+PEH CODE BLUE,HOSP
+PEH CODE GREEN,HOSP
+PEH CODE PINK,HOSP
+PEH Internal,HOSP
+PEH Internal - Day,HOSP
+PEH Internal - Night,HOSP
+PEH Who Would Have Thought,CPAC
+PEH-4BD-Campaign,HOSP
+PEPAC - Press 0 - Day,HOSP
+PEPAC - Press 0 - Night,HOSP
+PEPAC - press 2 - Day,CPAC
+PEPAC - press 2 - Night,HOSP
+Pre-Departure Test,CORP
+Pre-Departure Test Hotline,CORP
+Price Guarantee Program,CPAC
+Prudential Health Screening,CORP
+Prudential ME,CORP
+PSCM Inbound,IB
+PSCM-Outbound,Outbound
+PSCS Mainline,HOSP
+PSCS-Emergency-Outbound,Outbound
+PSCS-Outbound,Outbound
+PUB,CORP
+RWS House-Call,CORP
+SAG,HOSP
+SCB  All other Enquiries (0),CORP
+SCB  Appointment Booking (1),CORP
+SCB  Claims Benefits (2),CORP
+SCB  LOG (3),CORP
+SCB medical concierge,CORP
+SCB Staff,CORP
+Screen For Life - Day,TPA
+Screen For Life - Night,CORP
+SDH DigiCare - Doc - Day,HOSP
+SDH DigiCare - Doc - Night,HOSP
+SDH DigiHealth - Day,HOSP
+SDH DigiHealth - Night,HOSP
+Service Excellence,Service Excellence
+Shenton - 62277777-0,IXCH
+Shenton - 62277777-1,IXCH
+Shenton-Feedback,TPA
+Singtel,CORP
+Singtel Annual HS,CORP
+Sinopharm Hotline,CORP
+SMG Appointment,CORP
+Supervisor Queue,Support Team
+Unilever,EHS (PSCS)
+UOB Medical Concierge - Day,CPAC
+UOB medical concierge - Night,CPAC
