@@ -1,4 +1,4 @@
-Date,Bed Number,Case Number,No. of Drugs,Comments (for delayed cases) (eg. Pt sleeping etc),Time Taken To Pack (mins),Time Taken to Reach Pt (mins),Time TTO Received,Time TTO Packing,Time TTO Dispensed,20 min and below,Between 20 to 30 min,30min and below,More than 30 min,Weekday,Overall Time Taken,Meet KPI,Office Hours
+Date,Bed Number,Case Number,No. of Drugs,Comments (for delayed cases) (eg. Pt sleeping etc),Time Taken To Pack (mins),Time Taken to Reach Pt (mins),Time TTO Received,Time TTO Packing,Time TTO Dispensed,20 min and below,Between 20 to 30 min,30min and below,More than 30 min,Weekday,Overall Time Taken (mins),Meet KPI,Office Hours
 2021-01-01,905,4020095917,4,,PBH,0:12,08:28:00,,08:40:00,1,0,1,0,Friday,12.0,Yes,Yes
 2021-01-01,1202,4020097017,8,wait for 2nd rx,PBH,,09:04:00,08:50:00,,0,0,0,0,Friday,,NA,NA
 2021-01-01,1224,4020095632,1,,0:04,0:19,09:01:00,09:05:00,09:20:00,1,0,1,0,Friday,19.0,Yes,Yes
