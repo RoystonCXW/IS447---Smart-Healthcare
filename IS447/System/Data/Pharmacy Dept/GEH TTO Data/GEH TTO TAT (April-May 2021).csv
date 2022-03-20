@@ -1,4 +1,4 @@
-Date,Case Number,Room Number,Ward,TTO Type,No. of Drugs,DateTime TTO Received,DateTime TTO Checked,Checked by,Time to meet,DateTime TTO Dispensed,DateTime TTO Counselled,Counselled by,Remarks,Limo Service,Timings (Checked),Timings (Reached),Weekday
+Date,Case Number,Room,Ward,TTO Type,No. of Drugs,DateTime TTO Received,DateTime TTO Checked,Checked by,Time to meet,DateTime TTO Dispensed,DateTime (Counselled),Counselled by,Remarks,Limo Service,Timings (Checked),Timings (Reached),Weekday
 2021-04-01,1021023186,957,9W,SCM,2,08:59:00,09:04:00,LET,09:44:00,09:29:00,09:35:00,LET,,,00:05:00,00:30:00,Thursday
 2021-04-01,1021023191,509,5E,SCM,3,09:05:00,09:26:00,LET,09:50:00,09:29:00,09:32:00,ELISE,,,00:21:00,00:24:00,Thursday
 2021-04-01,1021023190,508,5E,SCM,4,09:07:00,09:19:00,LET,09:52:00,09:32:00,10:17:00,ELISE,P,,00:12:00,00:25:00,Thursday
