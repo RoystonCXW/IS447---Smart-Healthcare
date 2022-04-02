@@ -1,4 +1,4 @@
-Date,Case Number,Room Number,TTO Type,No. of Drugs,DateTime TTO Received,DateTime TTO Checked,Pharmacist_Checked,DateTime TTO Dispensed,Time Dispensed,Pharmacist_Dispensed,Remarks,Dispatcher,status_CheckedTTO,status_TTOReached,status_Dispensed,status_TTOIn,Time,Weekday
+Date,Case Number,Room,TTO Type,No. of Drugs,DateTime TTO Received,DateTime TTO Checked,Pharmacist_Checked,DateTime TTO Dispensed,Time Dispensed,Pharmacist_Dispensed,Remarks,Dispatcher,status_CheckedTTO,status_TTOReached,status_Dispensed,status_TTOIn,Time,Weekday
 2021-06-01 01:00:00,1021039455.0,953,SCM,3.0,09:13:00,09:07:17,Ray Hng Yeo,09:28:26,2021-06-01 09:31:37,Zhao Wan Qing,,,True,True,True,True,,Tuesday
 2021-06-01 01:00:00,1021039290.0,623,SCM,1.0,09:30:00,09:38:25,Ray Hng Yeo,10:07:32,2021-06-01 10:09:24,Ray Hng Yeo,,,True,True,True,True,,Tuesday
 2021-06-01 01:00:00,1021039339.0,757,SCM,1.0,09:36:00,09:43:48,Nur Shahida Binte Ahmad,10:30:09,2021-06-01 10:30:18,Ray Hng Yeo,,,True,True,True,True,,Tuesday
